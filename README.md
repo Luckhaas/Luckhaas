@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m interested in codes
-- 🌱 I’m currently learning HTML5/CSS3
+- 🌱 I’m currently learning HTML5/CSS3/JS
 - 📫 How to reach me @goatluc on instagram
 
 <!---
